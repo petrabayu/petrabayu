@@ -2,15 +2,15 @@
 <h1 align="center">Hi 👋, I'm Petra Bayu Pangestu</h1>
 <h3 align="center">A passionate website developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=petrabayu&label=Profile%20views&color=0e75b6&style=flat" alt="petrabayu" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=petrabayu&label=Profile%20views&color=0e75b6&style=flat" alt="petrabayu" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=petrabayu" alt="petrabayu" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=petrabayu" alt="petrabayu" /></a> </p> -->
 
-- 🌱 I’m currently learning **React.js, Next.js, Typescript, Javascript, and php**
+🌱 I’m currently learning **React.js, Next.js, Typescript, Javascript, and php**
 
-- 📫 How to reach me **petrabayu19@gmail.com**
+📫 How to reach me **petrabayu19@gmail.com**
 
-- 📄 Know about my experiences [http://petrabayu.com/](http://petrabayu.com/)
+📄 Know about my experiences [http://petrabayu.com/](http://petrabayu.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
